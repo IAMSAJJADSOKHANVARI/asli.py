@@ -7,3 +7,4 @@ add the but motor
 run erand
 go hiking
 make soup
+do the karate 
